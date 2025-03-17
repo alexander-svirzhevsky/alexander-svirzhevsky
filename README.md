@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">Hi, I'm Alexander! 👋</h1>
+<h1 align="center">hey there 👋</h1>
 
 ###
 
@@ -31,8 +31,6 @@
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
-## 🛠 Skills
-Javascript, HTML, CSS...
 
 ###
 
@@ -49,6 +47,8 @@ Javascript, HTML, CSS...
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/apollographql/311C87" height="40" alt="apollographql logo"  />
@@ -62,6 +62,8 @@ Javascript, HTML, CSS...
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/jest/C21325" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
 </div>
 
 ###
