@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.licdn.com/dms/image/v2/D4D03AQGNlsNXbhXjCg/profile-displayphoto-shrink_800_800/B4DZV.96gIG4Ak-/0/1741591915250?e=1747872000&v=beta&t=J7k1DYj1q5TQFg16KPNvb5NkOTJfnCBde6tiT193zW0"  />
+  <h1 align="center">Hello World, I'm Alex 👋</h1>
 </div>
 
 ###
@@ -18,10 +18,6 @@
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
 </div>
-
-###
-
-<h1 align="center">Hello World, I'm Alex 👋</h1>
 
 ###
 
