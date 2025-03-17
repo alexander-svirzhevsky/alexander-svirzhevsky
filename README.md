@@ -68,7 +68,33 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<p align="center">EXPERIENCE</p>
+
+###
+
+<h6 align="center">VRP Consulting:  08/2024 - PRESENT,  ~1 YEAR</h6>
+
+###
+
+<p align="left">• Improved website accessibility by ensuring keyboard navigation and better compatibility with screen readers like NVDA and VoiceOver, enhancing the experience for users with disabilities<br>• Optimized application performance by reducing bundle size and improving rendering efficiency, leading to faster load times and a smoother user experience.<br>• Configured and enforced ESLint and Stylelint to maintain a consistent code style and best practices, reducing code review time and preventing stylistic and syntax errors.<br><br>Technologies: React, Redux, TypeScript, React Bootstrap, Vite</p>
+
+###
+
+<h6 align="center">SENLA:  08/2023 - 08/2024,  1 YEAR</h6>
+
+###
+
+<p align="left">•Developed the project architecture based on the FSD approach, which helped structure the code, speed up development, and speed up the onboarding time for new developers<br>• Increased the app's unit test coverage from 42% to 78%<br><br>Technologies: React, Redux, TypeScript, React Testing Library, tanstack/react-query, ant-design, MUI</p>
+
+###
+
+<h6 align="center">Techart Group:  05/2021 - 08/2023,  2.2 YEARS</h6>
+
+###
+
+<p align="left">• Developed a UI kit that was presented in Storybook, to streamline development and ensure consistency across the project.<br>• Covered all applications with e2e tests, significantly reducing the need for manual regression testing, allowing QA engineers to focus on edge cases and critical issues, and enhancing product stability.<br>• Migrated the application from ReScript to TypeScript with React, improving maintainability and developer adoption.<br>Technologies: React, ReScript, TypeScript, Storybook, Apollo Client, Chakra UI</p>
+
+###
 
 ###
 
