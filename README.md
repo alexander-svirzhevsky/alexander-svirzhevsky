@@ -77,7 +77,7 @@
 
 ###
 
-<p align="left">• Optimized application performance by reducing bundle size by 25% and improving rendering efficiency, resulting in 40% faster load times and a smoother user experience.<br>• Improved website accessibility by ensuring keyboard navigation and better compatibility with screen readers like NVDA and VoiceOver, enhancing the experience for users with disabilities.<br>
+<p align="left">• Optimized application performance by reducing bundle size by <bold>25%</bold> and improving rendering efficiency, resulting in 40% faster load times and a smoother user experience.<br>• Improved website accessibility by ensuring keyboard navigation and better compatibility with screen readers like NVDA and VoiceOver, enhancing the experience for users with disabilities.<br>
 • Configured and enforced ESLint and Stylelint to maintain a consistent code style and best practices, reducing code review time and preventing stylistic and syntax errors.<br>
 • Created a UI Kit library, reducing UI development time by 35% and maintaining design coherence across the application.<br>
 <br>Technologies: React, Redux, TypeScript, React Bootstrap, Vite</p>
