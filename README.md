@@ -25,7 +25,9 @@
 
 ###
 
-<p align="left">I'm Frontend Developer with 4 years of commercial experience, working in teams from 2 to 15 members. Skilled in mentoring junior developers. Proficient in Agile methodologies, particularly Scrum.<br>Experienced in building accessible applications fully compliant with accessibility standards, ensuring an inclusive user experience for people with disabilities, improving page load times, enhancing user experience, and modernising applications. Designed and implemented scalable component systems and ensured full application coverage with end-to-end (E2E) testing. <br>Actively participated in backlog refinement and direct communication with stakeholders. Passionate about continuous learning, always staying up to date with the latest technologies and best practices.</p>
+<p align="left">I'm Frontend Developer with 4 years of commercial experience, working in teams from 2 to 15 members. Skilled in mentoring junior developers.</p>
+<p align="left">Experienced in building accessible applications fully compliant with accessibility standards, ensuring an inclusive user experience for people with disabilities. Proficient in performance optimisation, user experience enhancement, and application modernisation. Designed and implemented scalable component systems and ensured design consistency. </p>
+<p align="left">Actively participated in backlog refinement and direct communication with stakeholders. Passionate about continuous learning, always staying up to date with the latest technologies and best practices.</p>
 
 ###
 
