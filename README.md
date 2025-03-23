@@ -88,8 +88,7 @@
 
 ###
 
-<p align="left">•Developed the project architecture based on the FSD approach, which helped structure the code, speed up development, and speed up the onboarding time for new developers.<br>• Increased the app's unit test coverage from 32% to 78%</p>• Implemented a scalable theming system using CSS Modules, enabling easy maintenance and fast integration of new themes in under 5 minutes.</p>
-<br>Technologies: React, Redux, TypeScript, React Testing Library, tanstack/react-query, ant-design, MUI</p>
+<p align="left">•Developed the project architecture based on the FSD approach, which helped structure the code, speed up development, and speed up the onboarding time for new developers.<br>• Increased the app's unit test coverage from 32% to 78%.<br> • Implemented a scalable theming system using CSS Modules, enabling easy maintenance and fast integration of new themes in under 5 minutes.<br>Technologies: React, Redux, TypeScript, React Testing Library, tanstack/react-query, ant-design, MUI</p>
 
 ###
 
