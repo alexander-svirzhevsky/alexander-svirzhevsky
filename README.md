@@ -97,6 +97,7 @@
 
 ###
 
-<p align="left">• Developed a UI kit that was presented in Storybook, to streamline development and ensure consistency across the project.<br>• Covered all applications with E2E tests, reducing manual regression testing efforts by 60%, allowing QA engineers to focus on edge cases and critical issues, and improving product stability by 35%.<br>• Migrated the application from ReScript to TypeScript with React, improving maintainability and developer adoption.<br>Technologies: React, ReScript, TypeScript, Storybook, Apollo Client, Chakra UI</p>
+<p align="left">• Developed a UI kit that was presented in Storybook, to streamline development and ensure consistency across the project.<br>• Covered all applications with E2E tests, reducing manual regression testing efforts by 60%, allowing QA engineers to focus on edge cases and critical issues, and improving product stability by 35%.<br>• Migrated the application from ReScript to TypeScript with React, improving maintainability and developer adoption.<br>
+<br>Technologies: React, ReScript, TypeScript, Storybook, Apollo Client, Chakra UI</p>
 
 ###
